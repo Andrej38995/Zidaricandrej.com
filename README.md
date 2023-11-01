@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### If 'react-scripts' is not recognized as an internal or external command, run this:
+    npm install react-scripts --save
+
+    and then 'nom start'
+
 ### `npm start`
 
 Runs the app in the development mode.\
